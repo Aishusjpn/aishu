@@ -1,1 +1,3 @@
 wellcome to git 
+today is friday
+hello
